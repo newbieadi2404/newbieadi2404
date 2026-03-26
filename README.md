@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**newbieadi2404/newbieadi2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **real-world systems combining backend engineering, data analytics, and security**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Secure Healthcare System (DICOM)
+- Hybrid encryption (AES-256-GCM + RSA-2048 + RSA-PSS)
+- Role-Based Access Control (RBAC) + JWT authentication
+- Secure transmission pipeline (upload → encrypt → send → decrypt)
+- Encryption validation using Entropy, NPCR, UACI
+
+---
+
+## 📊 AI Public Safety Intelligence System
+- Risk scoring model (0–10) using frequency, severity, and trend
+- Random Forest-based hotspot prediction
+- Geospatial analysis using GIS (GeoPandas/Folium)
+- Decision Support System for resource allocation
+
+---
+
+## 🚀 Currently Building
+- Real-time Fraud Detection System (Kafka + FastAPI)
+
+---
+
+## 🛠 Tech Stack
+Python | Flask | FastAPI | SQL | Pandas | NumPy | Scikit-learn | Power BI | Streamlit
+
+---
+
+## 🎯 Interests
+Backend Systems | Data Engineering | Applied AI | Security
