@@ -1,27 +1,28 @@
 # Hi, I'm Aditya 👋
 
-I build **real-world systems combining backend engineering, data analytics, and security**.
+I build **production-style systems combining backend engineering, data analytics, and security**.
 
 ---
 
-## 🔐 Secure Healthcare System (DICOM)
-- Hybrid encryption (AES-256-GCM + RSA-2048 + RSA-PSS)
-- Role-Based Access Control (RBAC) + JWT authentication
-- Secure transmission pipeline (upload → encrypt → send → decrypt)
-- Encryption validation using Entropy, NPCR, UACI
+## 🔐 Secure DICOM Transmission System
+- Engineered hybrid encryption pipeline using **AES-256-GCM + RSA-2048 + RSA-PSS**
+- Built end-to-end secure workflow (upload → encrypt → transmit → decrypt)
+- Implemented **RBAC + JWT authentication** for multi-role access control
+- Validated encryption using **Entropy (~7.99), NPCR (~99.6%), UACI (~35%)**
+- Integrated audit logging and nonce-based replay protection
 
 ---
 
 ## 📊 AI Public Safety Intelligence System
-- Risk scoring model (0–10) using frequency, severity, and trend
-- Random Forest-based hotspot prediction
-- Geospatial analysis using GIS (GeoPandas/Folium)
-- Decision Support System for resource allocation
+- Designed **risk scoring model (0–10)** using frequency, severity, and trend features  
+- Built **Random Forest model** for crime hotspot prediction  
+- Performed **geospatial analysis (GeoPandas, Folium)**  
+- Developed **decision support system** for resource allocation  
 
 ---
 
 ## 🚀 Currently Building
-- Real-time Fraud Detection System (Kafka + FastAPI)
+- Real-time Fraud Detection System (**Kafka + FastAPI + Streaming Pipeline**)
 
 ---
 
@@ -30,5 +31,5 @@ Python | Flask | FastAPI | SQL | Pandas | NumPy | Scikit-learn | Power BI | Stre
 
 ---
 
-## 🎯 Interests
+## 🎯 Focus Areas
 Backend Systems | Data Engineering | Applied AI | Security
