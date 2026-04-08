@@ -1,35 +1,45 @@
 # Hi, I'm Aditya 👋
 
-I build **production-style systems combining backend engineering, data analytics, and security**.
+Backend Engineer focused on building **secure and scalable systems**.
 
 ---
 
 ## 🔐 Secure DICOM Transmission System
-- Engineered hybrid encryption pipeline using **AES-256-GCM + RSA-2048 + RSA-PSS**
-- Built end-to-end secure workflow (upload → encrypt → transmit → decrypt)
-- Implemented **RBAC + JWT authentication** for multi-role access control
-- Validated encryption using **Entropy (~7.99), NPCR (~99.6%), UACI (~35%)**
-- Integrated audit logging and nonce-based replay protection
+
+Built a secure pipeline for transmitting medical images with **end-to-end encryption and access control**.
+
+* Designed hybrid encryption system using AES-256-GCM + RSA-2048
+* Implemented RBAC with JWT-based authentication for multi-role access
+* Built complete workflow: upload → encrypt → transmit → verify → decrypt
+* Added audit logging and replay attack protection using nonces
+* Validated encryption strength using entropy, NPCR, and UACI metrics
 
 ---
 
-## 📊 AI Public Safety Intelligence System
-- Designed **risk scoring model (0–10)** using frequency, severity, and trend features  
-- Built **Random Forest model** for crime hotspot prediction  
-- Performed **geospatial analysis (GeoPandas, Folium)**  
-- Developed **decision support system** for resource allocation  
+## 📊 Public Safety Intelligence System
+
+Developed a data-driven system for identifying high-risk crime zones and supporting decision-making.
+
+* Built risk scoring model based on frequency, severity, and trends
+* Trained Random Forest model for hotspot prediction
+* Performed geospatial analysis using GeoPandas and Folium
+* Designed dashboard for resource allocation insights
 
 ---
 
 ## 🚀 Currently Building
-- Real-time Fraud Detection System (**Kafka + FastAPI + Streaming Pipeline**)
+
+Real-time Fraud Detection System using Kafka and FastAPI
+(focused on streaming pipelines, event processing, and low-latency APIs)
 
 ---
 
 ## 🛠 Tech Stack
-Python | Flask | FastAPI | SQL | Pandas | NumPy | Scikit-learn | Power BI | Streamlit
+
+Python | FastAPI | Flask | SQL | Pandas | Scikit-learn
 
 ---
 
-## 🎯 Focus Areas
-Backend Systems | Data Engineering | Applied AI | Security
+## 🎯 Focus
+
+Backend Systems | System Design | Security
