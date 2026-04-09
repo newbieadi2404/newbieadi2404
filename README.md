@@ -1,31 +1,33 @@
 # Hi, I'm Aditya 👋
 
-Backend Engineer focused on building **secure, production-grade systems** for handling sensitive data.
+Backend Engineer building **secure, production-grade systems** for handling sensitive data in real-world environments.
 
 ---
 
 ## 🔐 Featured Project — Secure Health Vault
 
-Designed and built a **secure healthcare data system** with strong emphasis on security, integrity, and access control.
+Designed and built a **secure healthcare data system** for protecting sensitive medical records with end-to-end security.
 
-* Hybrid encryption (**AES-256-GCM + RSA-2048**) for secure data transmission
-* Role-Based Access Control (RBAC) for multi-user environments
-* Hash-chained audit logging for tamper detection
+* Hybrid encryption (**AES-256-GCM + RSA-2048**) for confidential data transmission
+* Role-Based Access Control (RBAC) for controlled multi-user access
+* Hash-chained audit logging to detect tampering
 * Replay attack prevention using cryptographic nonces
-* Secure email-based encrypted data exchange
+* Secure email-based transmission of encrypted healthcare data
 
-👉 Focus: **Security engineering + backend system design**
+👉 Built to simulate **real-world healthcare security systems**
 
 ---
 
 ## 🔒 Secure DICOM Transmission System
 
-Built a system for **secure medical image transfer** using hybrid cryptography.
+Engineered a system for **secure medical image transfer** using hybrid cryptography.
 
 * End-to-end pipeline (upload → encrypt → transmit → decrypt)
 * Digital signatures using RSA-PSS for integrity verification
 * JWT-based authentication with RBAC
 * Security validation using entropy, NPCR, and UACI metrics
+
+👉 Focus on **secure data exchange and cryptographic validation**
 
 ---
 
