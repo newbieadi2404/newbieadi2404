@@ -41,8 +41,7 @@ Developed a data-driven system for identifying high-risk zones.
 
 ## 🚀 Currently Building
 
-Real-time Fraud Detection System
-(Kafka + FastAPI + streaming pipelines)
+Real-time Fraud Detection System (Kafka + FastAPI, streaming pipelines)
 
 ---
 
